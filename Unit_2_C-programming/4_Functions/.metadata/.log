@@ -1,0 +1,26 @@
+!SESSION 2022-07-21 16:59:54.663 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-07-21 17:01:12.631
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Aly Maher'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-21 17:01:59.395
+!MESSAGE Indexed 'Ex_1' (١ sources, ٠ headers) in ٠٫٥٧٤ sec: ٧ declarations; ٢٨ references; ١ unresolved inclusions; ٠ syntax errors; ١ unresolved names (٢٫٨٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-21 17:01:59.849
+!MESSAGE Indexed 'Ex_2' (١ sources, ٠ headers) in ٠٫٠٥٢ sec: ٥ declarations; ١٢ references; ١ unresolved inclusions; ٠ syntax errors; ١ unresolved names (٥٫٦٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-21 17:02:00.213
+!MESSAGE Indexed 'Ex_3' (١ sources, ٠ headers) in ٠٫٠٣٧ sec: ٦ declarations; ١٤ references; ٢ unresolved inclusions; ٠ syntax errors; ١ unresolved names (٤٫٨٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-21 17:02:00.592
+!MESSAGE Indexed 'Ex_4' (١ sources, ٠ headers) in ٠٫٠٣٩ sec: ٧ declarations; ٢١ references; ٢ unresolved inclusions; ٠ syntax errors; ٤ unresolved names (١٢٪؜)

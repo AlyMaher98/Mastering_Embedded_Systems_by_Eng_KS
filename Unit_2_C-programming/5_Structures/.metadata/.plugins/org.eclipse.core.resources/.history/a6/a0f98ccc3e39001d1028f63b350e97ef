@@ -1,0 +1,37 @@
+/*
+ ============================================================================
+ Name        : Ex_1.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : C program to store Information of a student using structure
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+struct S_Students
+{
+	char name[100];
+	int roll;
+	float marks;
+} data;
+int main(void)
+{
+	printf("Enter information of students:\n\n");
+	printf("Enter name: ");
+	fflush(stdout);
+	scanf("%s",&data.name);
+	printf("Enter roll number: ");
+	fflush(stdout);
+	scanf("%d",&data.roll);
+	printf("Enter marks: ");
+	fflush(stdout);
+	scanf("%f",&data.marks);
+	printf("Displaying Information\n");
+	printf("name: %s\n",data.name);
+	printf("name: %d\n",data.roll);
+	printf("name: %.2f\n",data.marks);
+
+}

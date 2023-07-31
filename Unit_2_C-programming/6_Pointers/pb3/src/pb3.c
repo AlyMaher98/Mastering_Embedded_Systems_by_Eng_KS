@@ -1,0 +1,29 @@
+/*
+ ============================================================================
+ Name        : pb3.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Write a program in C to print a string in reverse using a pointer
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include "string.h"
+int main(void)
+{
+	char str[50];
+	int len;
+	char i;
+	char *strptr=str;
+	printf("Enter a string \n");
+	fflush(stdout);fflush(stdin);
+	gets(str);
+	len=strlen(str);
+	for(i=len-1;i>=0;i--)
+	{
+		printf("%c",*(strptr+i));
+
+	}
+
+}

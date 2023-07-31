@@ -1,0 +1,32 @@
+!SESSION 2022-06-17 02:16:18.117 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-06-17 02:17:01.574
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Aly Maher'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-17 02:26:04.567
+!MESSAGE Indexed 'test' (١ sources, ١٠ headers) in ١٫٠٣ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-17 21:21:22.753
+!MESSAGE Indexed 'Ex_1' (١ sources, ١٠ headers) in ٠٫٣٦١ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-17 23:32:11.729
+!MESSAGE Indexed 'Ex_2' (١ sources, ١٠ headers) in ٠٫١٧١ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-17 23:33:11.186
+!MESSAGE Indexed 'Ex_5' (١ sources, ١٠ headers) in ٠٫١٤٦ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-17 23:41:10.867
+!MESSAGE Indexed 'EX_6' (١ sources, ١٠ headers) in ٠٫١٣٨ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-17 23:54:01.221
+!MESSAGE Indexed 'Ex_3' (١ sources, ١٠ headers) in ٠٫١٨٥ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)

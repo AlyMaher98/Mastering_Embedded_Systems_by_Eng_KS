@@ -1,0 +1,10 @@
+02:23:07 **** Incremental Build of configuration Debug for project Ex_2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex_2.o" "..\\src\\Ex_2.c" 
+..\src\Ex_2.c: In function 'main':
+..\src\Ex_2.c:35:2: error: expected declaration or statement at end of input
+  scanf("%f",&data.feet[1]);
+  ^~~~~
+
+02:23:07 Build Failed. 1 errors, 0 warnings. (took 383ms)
+

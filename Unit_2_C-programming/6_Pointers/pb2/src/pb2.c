@@ -1,0 +1,22 @@
+/*
+ ============================================================================
+ Name        : pb2.c
+ Author      : Aly Maher
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Write a program in C to print all the alphabets using a pointer. Go
+to the editor
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int main(void)
+{
+	char *ptr ='A';
+	printf("The alphabets are : \n");
+	for (char alph =0;alph<26;alph++)
+	{
+		printf("%c ",ptr+alph);
+	}
+}

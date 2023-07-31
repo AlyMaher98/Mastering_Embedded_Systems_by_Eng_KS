@@ -1,0 +1,72 @@
+!SESSION 2022-06-04 22:56:10.801 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-06-04 22:57:07.981
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Aly Maher'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-04 22:57:55.639
+!MESSAGE Indexed 'Ex_1' (١ sources, ١٠ headers) in ١٫٢١ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+!SESSION 2022-06-06 23:53:22.715 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-06-06 23:54:02.593
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Aly Maher'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-06 23:55:54.999
+!MESSAGE Indexed 'Ex_1_Arrays' (١ sources, ١٠ headers) in ٣٫٣٢ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+!SESSION 2022-06-07 00:18:21.057 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-06-07 00:18:51.638
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Aly Maher'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-07 00:27:32.552
+!MESSAGE Indexed 'Ex_2_Arrays' (١ sources, ١٠ headers) in ٠٫٦٧٨ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-09 00:29:05.608
+!MESSAGE Indexed 'EX_3_Arrays' (١ sources, ١٠ headers) in ٠٫١٦٦ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-09 00:30:29.927
+!MESSAGE Indexed 'Ex_4_Arrays' (١ sources, ٠ headers) in ٠٫٠٠٨ sec: ٢ declarations; ١ references; ٢ unresolved inclusions; ٠ syntax errors; ١ unresolved names (٢٥٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-10 16:58:45.547
+!MESSAGE Indexed 'Ex_5_Arrays' (١ sources, ١٠ headers) in ٠٫١٢٤ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-10 17:01:20.156
+!MESSAGE Indexed 'Ex_3_Arrays' (١ sources, ١٠ headers) in ٠٫٢١٩ sec: ٨٧٩ declarations; ١٬٧١١ references; ٠ unresolved inclusions; ١ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-10 17:46:58.120
+!MESSAGE Indexed 'Ex_1_Strings' (١ sources, ١٠ headers) in ٠٫١٨٥ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-10 17:47:36.146
+!MESSAGE Indexed 'Ex_2_Strings' (١ sources, ١٠ headers) in ٠٫١٢٥ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-10 17:48:29.660
+!MESSAGE Indexed 'Ex_3_Strings' (١ sources, ١٠ headers) in ٠٫٠٩٨ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)

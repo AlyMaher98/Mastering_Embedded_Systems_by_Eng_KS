@@ -1,0 +1,30 @@
+/*
+ ============================================================================
+ Name        : Ex_3_Strings.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description :Reverse a string
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+	char string[100];
+	char temp[100];
+	int n;
+	printf("Enter a string: ");
+	fflush(stdout);
+	gets(string);
+	n=strlen(string);
+	printf("reverse of string: ");
+	for(int i=0;i<=n;i++)
+	{
+
+		temp[i]=string[n-i];
+		printf("%c",temp[i]);
+	}
+}

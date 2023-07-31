@@ -1,0 +1,40 @@
+/*
+ ============================================================================
+ Name        : Ex_3.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : C program to reverse a sentence using recursion
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include "string.h"
+
+
+char reverse_sentence(char a[],char n)
+{
+	char temp[100];
+
+
+		for(int i =0;i<=n;i++)
+		{
+		temp[i]=a[n-i];
+		i++;
+		return printf("%c",temp[i]);
+
+		//return reverse_sentence(a[100],n-1);
+	}
+
+}
+int main(void)
+{
+	int n;
+
+	char array[100];
+	printf("Enter a sentence: ");
+	fflush(stdout);
+	gets(array);
+	n=strlen(array);
+	reverse_sentence(array,n);
+}

@@ -1,0 +1,5 @@
+??:??:?? **** Incremental Build of configuration Debug for project Assignment1_ex6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Assignment1_ex6.o" "..\\src\\Assignment1_ex6.c" 
+gcc -o Assignment1_ex6.exe "src\\Assignment1_ex6.o" 
+Info: Nothing to build for Assignment1_ex6

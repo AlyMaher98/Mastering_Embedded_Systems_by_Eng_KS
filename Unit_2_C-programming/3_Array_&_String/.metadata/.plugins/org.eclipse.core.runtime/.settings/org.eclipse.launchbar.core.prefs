@@ -1,0 +1,10 @@
+LaunchTargetManager/configs/Ex_1_Strings.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Ex_2_Arrays.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Ex_3_Arrays.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Ex_1_Arrays.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex_4_Arrays.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex_5_Arrays.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex_1_Strings.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex_2_Strings.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex_3_Strings.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex_2_Arrays.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex_3_Arrays.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Ex_1_Arrays.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Ex_1_Arrays.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

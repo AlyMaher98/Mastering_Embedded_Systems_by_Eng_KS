@@ -1,0 +1,25 @@
+/*
+ * Ex_1.c
+ *
+ *  Created on: ??þ/??þ/????
+ *  Author: Aly Maher
+ *  C Program to check whether a Number is Even or Odd
+ */
+
+#include <stdio.h>
+
+int main()
+
+{
+	int x;
+	Printf("Enter an integer you want to check: ");
+	scanf("%d",&x);
+	fflush(stdout);
+	if(x%2==0)
+		Printf("%d is even",x);
+	else
+		Printf("%d is odd",x);
+	return 0;
+
+
+}

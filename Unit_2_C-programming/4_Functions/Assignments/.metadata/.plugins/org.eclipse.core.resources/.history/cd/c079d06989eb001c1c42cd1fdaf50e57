@@ -1,0 +1,42 @@
+/*
+ ============================================================================
+ Name        : Ex_1.c
+ Author      : Aly Maher
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Prime numbers between two intervals by making
+ 	 	 	   user defined function
+ ============================================================================
+ */
+
+#include <stdio.h>
+void prime_numbers_print(int x,int y)
+{
+	printf("Prime numbers between %d and %d are: ",x,y);
+	int temp1,temp2;
+	for(int n=0;n<y;n++)
+		{
+		temp1=6*n+1;
+		temp2=6*n-1;
+			if (temp1>x&temp1<y)
+			{
+				printf("%d",temp1);
+			}
+			if (temp2>x&temp2<y)
+				{
+					printf("%d",temp2);
+				}
+
+		}
+
+}
+int main(void)
+{
+	int x,y;
+	printf("Enter the two numbers\n");
+	fflush(stdout);
+	scanf("%d &d",&x,&y);
+	prime_numbers_print(x,y);
+
+
+}

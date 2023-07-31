@@ -1,0 +1,26 @@
+/*
+ ============================================================================
+ Name        : Ex_7.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : C program to find the factorial , Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	int fact=0;
+	int x;
+	printf("Enter an integer : ");
+	fflush(stdout);
+	scanf("%d",&x);
+	for (int i=1;i<=x;i++)
+	{
+		fact*=i;
+	}
+	printf("fact = %d ",fact);
+}

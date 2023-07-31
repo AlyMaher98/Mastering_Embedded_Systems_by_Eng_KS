@@ -1,0 +1,10 @@
+/*
+ * Ex_1.c
+ *
+ *  Created on: ??þ/??þ/????
+ *  Author: Aly Maher
+ *  C Program to check whether a Number is Even or Odd
+ */
+
+
+include <stdio.h>

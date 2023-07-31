@@ -1,0 +1,22 @@
+/*
+ ============================================================================
+ Name        : Assignment1_ex2.c
+ Author      : Aly Maher
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Print the number on a screen
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int x ;
+
+	printf("Enter an integer: ");
+	scanf("%d",&x);
+	printf("You entered: %d",x);
+	fflush(stdout);
+	return 0;
+}

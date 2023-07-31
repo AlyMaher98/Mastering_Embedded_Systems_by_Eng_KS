@@ -1,0 +1,36 @@
+/*
+ ============================================================================
+ Name        : Ex_4.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : C program to calculate the power of a number using recursion
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void power (int a,int b)
+{
+	int counter=1;
+	if(counter==3)
+	{
+		return;
+	}
+	else
+
+		printf("%d",(5*power(a,counter++)));
+
+}
+int main(void) {
+	int x,y;
+	printf("enter base number: %d",x);
+	fflush(stdout);
+	scanf("%d",&x);
+	printf("Enter power number (positive integer: %d",y);
+	fflush(stdout);
+	scanf("%d",&y);
+	power(x,y);
+
+}

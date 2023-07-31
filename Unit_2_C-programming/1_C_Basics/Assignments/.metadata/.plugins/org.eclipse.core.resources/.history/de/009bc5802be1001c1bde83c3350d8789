@@ -1,0 +1,26 @@
+/*
+ ============================================================================
+ Name        : Assignment1_ex6.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : A program that swap two integers, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int x,y,temp;
+	printf("Enter value of a:");
+	scanf(&x);
+	fflush(stdout);
+	printf("Enter value of b:");
+	scanf(&y);
+	fflush(stdout);
+	temp=x;
+	y=x;
+	printf("After swapping \r\n The value of a =%d\r\n The value of b=%d",temp,y);
+
+}

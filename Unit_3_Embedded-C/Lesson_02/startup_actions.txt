@@ -1,0 +1,11 @@
+the startup code in startup runs before main() 
+the startup consists of the following actions 
+1-Disable all interrupts
+2-Create a vector table 
+3-Copy any initialized data from ROM to RAM
+4-Zero the uninialized data area
+5-Allocate space for and initialize the stack
+6-Create and initialize the heap
+7-Enable Interrupts
+8-Call the main
+the startup entry point 

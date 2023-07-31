@@ -1,0 +1,5 @@
+??:??:?? **** Incremental Build of configuration Debug for project Ex_3_Arrays ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX_3_Arrays.o" "..\\src\\EX_3_Arrays.c" 
+gcc -o Ex_3_Arrays.exe "src\\EX_3_Arrays.o" 
+Info: Nothing to build for Ex_3_Arrays

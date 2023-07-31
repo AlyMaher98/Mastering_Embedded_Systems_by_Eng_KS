@@ -1,0 +1,40 @@
+/*
+ ============================================================================
+ Name        : EX_8.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : SIMPLE CALCULATOR, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+		char x;
+		printf("Enter the operation you want to make : ");
+		fflush(stdout);
+		scanf("%c",&x);
+		int y[2];
+
+		printf("Enter Two numbers: ");
+		fflush(stdout);
+		for(int i=0;i<2;i++)
+		{
+			scanf("%d",&y[i]);
+
+		}
+		if (x=='+')
+			printf("answer = %d",y[0]+y[1]);
+		else if (x=='-')
+			printf("answer = %d",y[0]-y[1]);
+		else if (x=='*')
+			printf("answer = %d",y[0]*y[1]);
+		else if (x=='/')
+			printf("answer = %d",y[0]/y[1]);
+
+		else
+			printf("Worng operation Try again");
+}

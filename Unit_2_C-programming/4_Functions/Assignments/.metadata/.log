@@ -1,0 +1,40 @@
+!SESSION 2022-06-14 03:47:50.437 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-06-14 03:48:46.161
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Aly Maher'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-14 03:50:04.660
+!MESSAGE Indexed 'Ex_1' (١ sources, ١٠ headers) in ١٫٣٢ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-15 02:50:04.039
+!MESSAGE Indexed 'Ex_2' (١ sources, ١٠ headers) in ٠٫٢٢٧ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-15 03:40:07.763
+!MESSAGE Indexed 'Ex_3' (١ sources, ١٠ headers) in ٠٫٢٤٤ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-15 04:04:32.124
+!MESSAGE Indexed 'Ex_4' (١ sources, ١٠ headers) in ٠٫١٨١ sec: ٨٧٥ declarations; ١٬٦٩٨ references; ٠ unresolved inclusions; ٠ syntax errors; ٠ unresolved names (٠٪؜)
+!SESSION 2022-06-15 16:58:15.396 -----------------------------------------------
+eclipse.buildId=4.20.0.I20210611-1600
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-06-15 16:58:47.803
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Aly Maher'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

@@ -1,0 +1,23 @@
+/*
+ ============================================================================
+ Name        : pb5.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Write a program in C to show a pointer to an array which contents
+are pointer to structure.
+ ============================================================================
+ */
+
+#include <stdio.h>
+typedef struct data
+{
+	char *Employee_Name;
+	int Employee_id;
+}emp;
+int main(void)
+{
+	emp emp1={"aly",1001},emp2={'omar',1002},emp3={"joo",1003};
+	emp (*arr[])={&emp1,&emp2,&emp3};
+	emp (*(*pt)[3])=&arr;
+}

@@ -1,0 +1,45 @@
+/*
+ ============================================================================
+ Name        : EX_3_Arrays.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Find transpose of a matrix
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	int array[100][100];
+	int array_rows;
+	int array_cloumns;
+	printf("Enter rows and column of matrix : ");
+	fflush(stdout);
+	fflush(stdin);
+	scanf("%d %d",&array_rows,&array_cloumns);
+	printf("Enter elements of matrix : \n");
+for(int i=0;i<array_rows;i++)
+{
+	for(int j=0;j<array_cloumns;j++)
+	{
+
+		printf("Enter elements of a%d%d: \n",i+1,j+1);
+		fflush(stdout);
+		scanf("%d",&array[i][j]);
+	}
+}
+printf("Entered matrix: \n ");
+for(int i=0;i<array_rows;i++)
+{
+	for(int j=0;j<array_cloumns;j++)
+	{
+
+		printf("%d ",array[i][j]);
+		fflush(stdout);
+	}
+	printf("\n");
+}
+}

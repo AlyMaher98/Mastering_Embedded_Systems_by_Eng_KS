@@ -1,0 +1,7 @@
+??:??:?? **** Incremental Build of configuration Debug for project EX_6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX_6.o" "..\\src\\EX_6.c" 
+..\src\EX_6.c:12:0: warning: ignoring #pragma padding  [-Wunknown-pragmas]
+ #pragma padding (1)
+ 
+gcc -o EX_6.exe "src\\EX_6.o" 
